@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scorerNameInput" type="id" />
+    <item name="homeScorer" type="id" />
+    <item name="awayScorer" type="id" />
+</resources>
